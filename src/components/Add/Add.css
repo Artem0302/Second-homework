@@ -1,0 +1,9 @@
+.add{
+    border-width: 2px;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}

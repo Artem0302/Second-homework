@@ -1,0 +1,18 @@
+.items{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    width: 90%;
+    margin: auto;
+}
+.point{
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.onTrue{
+    background-color: green;
+}
+.onFalse{
+    background-color: red;
+}
